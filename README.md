@@ -1,5 +1,7 @@
 Here is a tailored README.md template for your project "./bilchaim" which is an IDE Bill Desktop and Develop Maxima (Lisp), TypeScript, and FreeBasic project for Mac:
 
+![IDEBill](./matrix/cec/images/logon.png)
+
 ```markdown
 # bilchaim
 
