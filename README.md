@@ -30,7 +30,7 @@ bilchaim is a multi-language integrated development environment (IDE) project ai
 - See [docs/USAGE.md](docs/USAGE.md) for detailed user instructions.
 
 ## Project Structure
-```
+
 /bilchaim
 ├── /src            # Source code for IDE and language integrations
 ├── /docs           # Documentation and setup guides
@@ -38,7 +38,7 @@ bilchaim is a multi-language integrated development environment (IDE) project ai
 ├── /tests          # Unit and integration tests
 ├── README.md       # Project overview and setup instructions
 └── LICENSE         # License information
-```
+
 
 ## Contribution
 Contributions are welcome! Please fork the repo and open pull requests. Follow the contribution guidelines in `CONTRIBUTING.md`.
