@@ -1,0 +1,23 @@
+Dell machines often come with software licenses embedded or managed through Dell's licensing systems. For servers, Dell uses the Dell License Manager (DLM) tool to deploy and report on licenses, such as those for the integrated Dell Remote Access Controller (iDRAC). Licenses can be purchased with the server and downloaded via the Dell Digital Locker. For software on Dell PCs, licenses are typically digital and associated with the hardware, often embedded in the motherboard firmware, especially for Windows OS since Windows 8, enabling automatic activation of Windows 10 or 11 without separate product keys.
+
+Dell also provides centralized management for software licenses and subscriptions accessible through their portal, where you can download software, manage license keys, and replace digital licenses if needed. For enterprise software like Dell EMC products, license activation, entitlement viewing, and rehosting licenses between machines are supported through Dell's Software Licensing Central, with procedures for managing license keys including offline generation and rehosting processes.
+
+In summary:
+
+- Licenses for Dell servers are managed via Dell License Manager and Dell Digital Locker.
+- Windows licenses on Dell machines are often digital licenses embedded in the hardware firmware (no separate product keys).
+- Dell provides portals for managing all software licenses and subscriptions centrally.
+- License rehosting and regeneration are supported for certain Dell software products like those from Dell EMC.
+
+This applies broadly to Dell machines, including servers and PCs, to ensure license management is integrated with their hardware and software ecosystems.[1][3][4][5][6][8][9]
+
+[1](https://www.dell.com/support/kbdoc/pt-br/000178010/dell-emc-license-manager-dlm)
+[2](https://www.youtube.com/watch?v=ishld5qG8Tw)
+[3](https://www.dell.com/support/home/pt-br?app=licenses)
+[4](https://www.delltechnologies.com/asset/en-us/products/multi-product/educational-training/docu97129.pdf)
+[5](https://www.reddit.com/r/Dell/comments/rvakfz/does_dell_give_product_keys_for_windows_11/)
+[6](https://www.dell.com/support/home/en-us?app=licenses)
+[7](https://licensing.emc.com)
+[8](https://www.dell.com/support/contents/en-us/videos/videoplayer/how-to-manage-software-licenses-and-subscriptions-in-dell-my-account/6372738247112)
+[9](https://www.dell.com/support/contents/pt-br/videos/videoplayer/como-substituir-uma-licen%C3%A7a-digital-usando-o-idrac/6079779921001)
+[10](https://www.dell.com/pt-br/shop/suporte-de-licenciamento/ar/308)
